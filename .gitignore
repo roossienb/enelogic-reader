@@ -1,0 +1,10 @@
+# Ignore default output directory
+output/
+
+# Other stuff to Ignore
+.vs/
+__pycache__/
+*.pyc
+
+# My personal file that contains api keys
+example.bart.py
